@@ -15,7 +15,7 @@ El sistema procesa matrices táctiles de baja resolución provenientes de un gri
 |--- tactile_captures_50.json # Datos de entrada del sensor táctil (50 muestras)
 |--- Practica_4_Informe_Fernando_Moran.pdf # Informe técnico del proyecto
 |--- README.md   # Este documento
-
+```
 ## 3.Requisitos del Sistema
 * Sistema operativo: Linux (UBUNTU)
 * Compilador: g++ con soporte C++17 
